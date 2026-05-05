@@ -1,0 +1,7 @@
+tasks:
+  - name: cleanup
+  - name: git-clone
+  - name: flake8
+  - name: nose-tests
+  - name: buildah
+  - name: openshift-client
